@@ -26,6 +26,10 @@ For your pull requests to count towards hacktoberfest contributions, you are req
 
 Congrats! 🎉 You are an awsome contributor! 🏆
 
+P.S.: 
+Follow [Github Flow](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/github-flow) to collaborate!
+
+
 # Contributors
 
 [![](https://sourcerer.io/fame/EkinEren/EkinEren/TicTacToeGame/images/0)](https://sourcerer.io/fame/EkinEren/EkinEren/TicTacToeGame/links/0)[![](https://sourcerer.io/fame/EkinEren/EkinEren/TicTacToeGame/images/1)](https://sourcerer.io/fame/EkinEren/EkinEren/TicTacToeGame/links/1)[![](https://sourcerer.io/fame/EkinEren/EkinEren/TicTacToeGame/images/2)](https://sourcerer.io/fame/EkinEren/EkinEren/TicTacToeGame/links/2)[![](https://sourcerer.io/fame/EkinEren/EkinEren/TicTacToeGame/images/3)](https://sourcerer.io/fame/EkinEren/EkinEren/TicTacToeGame/links/3)[![](https://sourcerer.io/fame/EkinEren/EkinEren/TicTacToeGame/images/4)](https://sourcerer.io/fame/EkinEren/EkinEren/TicTacToeGame/links/4)[![](https://sourcerer.io/fame/EkinEren/EkinEren/TicTacToeGame/images/5)](https://sourcerer.io/fame/EkinEren/EkinEren/TicTacToeGame/links/5)[![](https://sourcerer.io/fame/EkinEren/EkinEren/TicTacToeGame/images/6)](https://sourcerer.io/fame/EkinEren/EkinEren/TicTacToeGame/links/6)[![](https://sourcerer.io/fame/EkinEren/EkinEren/TicTacToeGame/images/7)](https://sourcerer.io/fame/EkinEren/EkinEren/TicTacToeGame/links/7)
